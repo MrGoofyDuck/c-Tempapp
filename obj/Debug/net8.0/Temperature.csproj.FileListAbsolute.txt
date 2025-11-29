@@ -1,0 +1,14 @@
+/home/loafbread/csharp/Temperature/bin/Debug/net8.0/Temperature
+/home/loafbread/csharp/Temperature/bin/Debug/net8.0/Temperature.deps.json
+/home/loafbread/csharp/Temperature/bin/Debug/net8.0/Temperature.runtimeconfig.json
+/home/loafbread/csharp/Temperature/bin/Debug/net8.0/Temperature.dll
+/home/loafbread/csharp/Temperature/bin/Debug/net8.0/Temperature.pdb
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.AssemblyInfoInputs.cache
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.AssemblyInfo.cs
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.csproj.CoreCompileInputs.cache
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.dll
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/refint/Temperature.dll
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.pdb
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/Temperature.genruntimeconfig.cache
+/home/loafbread/csharp/Temperature/obj/Debug/net8.0/ref/Temperature.dll

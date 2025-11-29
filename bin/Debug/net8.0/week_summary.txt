@@ -1,0 +1,6 @@
+Weekly temperature summary
+-------------------------
+Average: 11.86 °C
+Min: 2.00 °C (day 1)
+Max: 50.00 °C (day 6)
+Trend: потеплело, diff = 1.00 °C
